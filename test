@@ -1,0 +1,9 @@
+<script>
+var p = promt("What is your age?","");
+if(p)
+{alert(p+"is your age");
+}
+Else
+{alert("no input");
+}
+</script>
